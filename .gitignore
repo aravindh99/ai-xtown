@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Frontend build output (Vite default)
+/front/dist/
+
+# Backend build output (if any, although not typical for this setup)
+/back/build/
+
